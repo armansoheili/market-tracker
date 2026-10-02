@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Market Tracker</string>
+    <string name="widget_name">Market Prices</string>
+    <string name="widget_desc">Live gold, dollar, Tether and euro prices on your home screen</string>
+</resources>
